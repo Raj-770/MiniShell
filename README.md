@@ -43,11 +43,11 @@
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/RealConrad/42minishell.git
+git clone <reopsitory url>
 ```
 2. Enter the directory and run make
 ```bash
-cd 42minishell
+cd <path to the clone repo>
 make
 ```
 3. Run the program
@@ -55,7 +55,6 @@ make
 ```
 ./minishell
 ```
-4. Happy shell scripting :)
 
 ## Contributors
 - [Raj-770](https://github.com/Raj-770)
